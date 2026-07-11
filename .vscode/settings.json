@@ -1,7 +1,10 @@
 {
   "java.project.sourcePaths": [
     "0702",
-    "0707"
+    "0707",
+    "0708",
+    "0709",
+
   ],
 
   "java.project.outputPath": "bin"

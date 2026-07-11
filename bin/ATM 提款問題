@@ -1,0 +1,12 @@
+input:
+- 目前餘額 balance
+- 提款金額 amount
+
+process:
+- 判斷 amount > 0
+- 判斷 amount <= balance
+- balance = balance - amount
+
+output:
+- 提款成功或失敗訊息
+- 目前餘額

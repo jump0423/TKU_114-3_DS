@@ -35,7 +35,7 @@ public class HealthAdvisor {
             System.out.println("Level: " + level);
             System.out.println();
 
-            sc.nextLine(); // 清除換行
+            sc.nextLine(); 
             System.out.print("是否繼續輸入下一筆？(y/n)：");
             again = sc.nextLine();
         }
